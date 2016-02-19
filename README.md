@@ -1,10 +1,10 @@
 # CodeCat
 CodeCat pampaCute
 
-# LANGUAGE:
+### LANGUAGE:
 ActionScript 3.0
 
-# USAGE:
+### USAGE:
     import carla.panda.Hello;
     
     Hello.Cat();
