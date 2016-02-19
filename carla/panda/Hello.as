@@ -14,8 +14,6 @@ package carla.panda {
 		public static function CatEmoticon():void {			
 			trace(" ----  =(^.^)=  ---- ");
 		}
-		
-		
-		
+	
 	}	
 }
